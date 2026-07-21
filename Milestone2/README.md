@@ -102,10 +102,6 @@ Lemmatization
 
 ↓
 
-Noise Filtering
-
-↓
-
 Final Preprocessed Text
 
 ↓
