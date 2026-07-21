@@ -45,7 +45,7 @@ The implemented pipeline performs the following tasks:
 - langdetect
 - emoji
 - regex
-- HTML Parser (BeautifulSoup)
+- HTML Parser 
 
 ---
 
