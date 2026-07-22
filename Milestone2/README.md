@@ -64,47 +64,47 @@ The implemented pipeline performs the following tasks:
 
 Input Text
 
-↓
+    ↓
 
 Language Detection
 
-↓
+    ↓
 
 Unicode Normalization
 
-↓
+    ↓
 
 Text Cleaning
 
-↓
+    ↓
 
 Emoji Extraction
 
-↓
+    ↓
 
 URL / Email / HTML Removal
 
-↓
+    ↓
 
 Punctuation & Number Removal
 
-↓
+    ↓
 
 Tokenization
 
-↓
+    ↓
 
 Stop-word Removal
 
-↓
+    ↓
 
 Lemmatization
 
-↓
+    ↓
 
 Final Preprocessed Text
 
-↓
+    ↓
 
 Sentiment & Emotion Ready Output
 
